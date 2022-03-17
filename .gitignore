@@ -1,5 +1,4 @@
-notes.md
-Achievements*
 .DS_Store
-alejandro-guzman-resume-v2.docx
-alejandro-guzman-resume-v2.1.docx
+*.docx
+*.pdf
+!alejandro-guzman-resume-master.pdf
