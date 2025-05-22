@@ -1,4 +1,4 @@
-.DS_Store
-*.docx
-*.pdf
-!alejandro-guzman-resume-master.pdf
+*
+!README.md
+!index.html
+!alejandro-guzman-resume-main.pdf
